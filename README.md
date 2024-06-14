@@ -1,16 +1,22 @@
 ## Hi there 👋
 
 <!--
-**alrg2007/Alrg2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alrg2007/Meu nome é Rian Gabriel
 
-Here are some ideas to get you started:
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Você pode entrar em contato comigo 📫
+riangabr2711@email.com
+
+-----------------------------------------------------------------------------------------------------
+
+alrg2007/My name is Rian Gabriel
+
+I'm studying at Alura
+I'm developing in the JavaScript language
+I use this space to organize and share my projects.
+
+You can contact me 📫
+riangabr2711@email.com
